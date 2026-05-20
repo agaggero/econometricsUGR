@@ -5,14 +5,13 @@ University of Granada (UGR).
 
 ## Status
 
-`v0.1.0` — first release. Ships three datasets only; no exported
-functions yet.
+`v0.1.0` — first release, published 2026-05-20. Ships three datasets only; no exported functions yet. Source: [agaggero/econometricsUGR](https://github.com/agaggero/econometricsUGR).
 
 ## Installation
 
 ```r
 # install.packages("remotes")
-remotes::install_github("agaggero-ugr/econometricsUGR")
+remotes::install_github("agaggero/econometricsUGR")
 ```
 
 ## Datasets
